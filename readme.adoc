@@ -1,0 +1,1 @@
+Test Jersey + YAML + Gradle + H2SQL
